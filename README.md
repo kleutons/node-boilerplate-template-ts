@@ -9,8 +9,8 @@
   <!-- Badges -->
 <div align="center">
 
-  [![TypeScript version][ts-badge]][typescript-5-7]
-  [![Node.js version][nodejs-badge]][nodejs]
+[![Typesript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/kleutons) 
+[![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/kleutons)
 
 </div>
 
@@ -60,4 +60,4 @@ $ npm install
 
 | [<img src="https://avatars3.githubusercontent.com/u/106082564?s=96&v=4"><br><sub>Kleuton Novais</sub>](https://github.com/kleutons) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [Linkedin](www.linkedin.com/in/kleuton-novais/)                                             |
+|                                            [Linkedin](https://www.linkedin.com/in/kleuton-novais/)                                             |
