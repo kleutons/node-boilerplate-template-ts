@@ -35,6 +35,29 @@ This code source was developed with the following items:
 
 ### ⚡ Scripts
 
-- `npm run build`: Compiles TypeScript files to JavaScript in the build directory.
 - `npm run dev`: Runs the server in development mode with environment variables loaded from the .env file.
+- `npm run build`: Compiles TypeScript files to JavaScript in the build directory.
 - `npm run start:build`: Compiles the project and runs the compiled version from the build directory.
+
+# 👨‍💻 How To Use
+
+click in **[Use this template]** OR
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v20+](https://nodejs.org/en/) + [NPM v10+](https://nodejs.org/en/) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/kleutons/node-boilerplate-template-ts
+
+# Go into the repository
+$ cd node-boilerplate-template-ts
+
+# Install dependencies
+$ npm install
+```
+
+## Author
+
+| [<img src="https://avatars3.githubusercontent.com/u/106082564?s=96&v=4"><br><sub>Kleuton Novais</sub>](https://github.com/kleutons) |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+|                                            [Linkedin](www.linkedin.com/in/kleuton-novais/)                                             |
