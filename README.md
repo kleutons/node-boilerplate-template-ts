@@ -54,8 +54,15 @@ $ cd node-boilerplate-template-ts
 
 # Install dependencies
 $ npm install
-```
 
+# Update All Packages  
+$ npm update
+  
+# To update all dependencies listed in your package.json to the latest stable version.
+$ npx npm-check-updates -u
+$ npm install
+
+```
 ## Author
 
 | [<img src="https://avatars3.githubusercontent.com/u/106082564?s=96&v=4"><br><sub>Kleuton Novais</sub>](https://github.com/kleutons) |
